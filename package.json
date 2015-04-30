@@ -5,7 +5,7 @@
   "author": "Bahman Fakhr Sabahi",
   "license": {
     "type": "MIT",
-    "url": "https://github.com/fsbahman/gulp-apidoc-swagger/blob/master/README.md/LICENSE"
+    "url": "https://github.com/kukicvladimir/gulp-apidoc-swagger/blob/master/README.md/LICENSE"
   },
   "main": "index.js",
   "scripts": {
@@ -13,10 +13,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/fsbahman/gulp-apidoc-swagger"
+    "url": "https://github.com/kukicvladimir/gulp-apidoc-swagger"
   },
   "bugs": {
-    "url": "https://github.com/fsbahman/gulp-apidoc-swagger/issues"
+    "url": "https://github.com/kukicvladimir/gulp-apidoc-swagger/issues"
   },
   "keywords": [
     "gulpplugin",
@@ -26,9 +26,9 @@
     "doc",
     "swagger"
   ],  
-  "homepage": "https://github.com/fsbahman/gulp-apidoc-swagger",
+  "homepage": "https://github.com/kukicvladimir/gulp-apidoc-swagger",
   "dependencies": {
-    "apidoc-swagger": "^0.0.0",
+    "apidoc-swagger": "git://github.com/kukicvladimir/apidoc-swagger.git",
     "gulp-util": "^3.0.0"
   },
   "devDependencies": {
